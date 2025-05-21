@@ -5,7 +5,7 @@
     "precio":"250",
     "disponible":true,
     "imagenUrl":"https://raw.githubusercontent.com/Carlos-Melgar-1079/TiendaNaturalista_imagen_appflutter/refs/heads/main/flow%202.webp",
-  }.
+  },
   {
     "id":2,
     "nombre":"WAX" ,
